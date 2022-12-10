@@ -1,0 +1,24 @@
+* {
+  font-family: sans-serif;
+  color: rgb(58, 58, 58);
+  border: 2px;
+}
+
+.heading {
+  text-align: center;
+}
+
+
+div {
+  flex: 1;
+  align-items: center;
+  text-align: center;
+}
+
+.content {
+  background-color: rgb(255, 255, 255);
+  color: rgb(58, 58, 58);
+  font-size: 32px;
+  padding: 55px;
+  display: flex;
+}
